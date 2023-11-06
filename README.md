@@ -21,5 +21,4 @@
 <div> 
   <a href="https://www.linkedin.com/in/pedro-rivas-3336021ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedro-rivas2003@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ![Snake animation](https://github.com/pedrorivaspaz/pedrorivaspaz/blob/output/github-contribution-grid-snake.svg)
 <div>
