@@ -1,10 +1,24 @@
 
-## Olá, eu sou o Pedro Rivas !!
+## Olá, eu sou o Pedro Rivas - Desenvolvedor Ruby on Rails !!
+
+Sou um desenvolvedor júnior apaixonado por Ruby on Rails, Docker e muito mais. Este é o meu perfil no GitHub, onde compartilho projetos, códigos e aprendizados relacionados ao mundo do desenvolvimento web.
+
+## Habilidades Técnicas
+
+Aqui estão algumas das minhas habilidades técnicas:
+
+- **Linguagens**: Ruby, Java, JavaScript
+- **Framework**: Ruby on Rails, Spring
+- **Bancos de Dados**: MySQL, SQLite, Redis, Postgres
+- **Testes**: RSpec, Capybara
+- **Controle de Versão**: Git (GitHub e Bitbucket)
+- **Docker e Docker Compose**: Experiência em criar e gerenciar ambientes de desenvolvimento com Docker.
+- **Sidekiq**: Uso do Sidekiq para processamento de background em aplicativos Rails.
+- **Faraday**: Integração com Faraday para realizar solicitações HTTP de maneira eficiente.
+
 
 <div align="center">
   <a href="https://github.com/pedrorivaspaz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorivaspaz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorivaspaz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
