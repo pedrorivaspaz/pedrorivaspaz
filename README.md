@@ -1,7 +1,7 @@
 
 ## Olá, eu sou o Pedro Rivas - Desenvolvedor Ruby on Rails !!
 
-Sou um desenvolvedor júnior apaixonado por Ruby on Rails, Docker e muito mais. Este é o meu perfil no GitHub, onde compartilho projetos, códigos e aprendizados relacionados ao mundo do desenvolvimento web.
+Sou um desenvolvedor apaixonado por Ruby on Rails, Docker e muito mais. Este é o meu perfil no GitHub, onde compartilho projetos, códigos e aprendizados relacionados ao mundo do desenvolvimento web.
 
 ## Habilidades Técnicas
 
